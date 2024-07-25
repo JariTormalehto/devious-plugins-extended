@@ -147,13 +147,22 @@
   "name": "Unethical Explorer",
   "description": "Automatically walks places",
   "id": "unethicalexplorer-plugin",
-  "releases": [{
-    "date": "2023-12-16",
-    "sha512sum": "B1864C2504957FE6681CA31F83D4724CB53E127A912232BE6E4D2217E89939534498203FEB2009014DE99B3FB404F37B8E1B410409BE79653B01BB0334A6242D",
-    "version": "0.0.5",
-    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-explorer-0.0.5.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-12-16",
+      "sha512sum": "B1864C2504957FE6681CA31F83D4724CB53E127A912232BE6E4D2217E89939534498203FEB2009014DE99B3FB404F37B8E1B410409BE79653B01BB0334A6242D",
+      "version": "0.0.5",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-explorer-0.0.5.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2024-07-25",
+      "sha512sum": "E2BBA02DFEA7648BA8ECCD81E0FA27925515E61F4AD4AA120E2E697A717D62BF6A3BFD9FDE0E8DBDB11811703D3DA0B1294A62777F9B61ABD2345D5618DB0F35",
+      "version": "0.0.6",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-explorer-0.0.6.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "",
   "provider": "melxin",

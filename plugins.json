@@ -157,7 +157,7 @@
     },
     {
       "date": "2024-07-25",
-      "sha512sum": "E2BBA02DFEA7648BA8ECCD81E0FA27925515E61F4AD4AA120E2E697A717D62BF6A3BFD9FDE0E8DBDB11811703D3DA0B1294A62777F9B61ABD2345D5618DB0F35",
+      "sha512sum": "030628B356E0412F907BD762BB7363F70883BE60684D07B4F661809186F498B53AA0BF2C7899FF064E6AF114E0484E136201502F6852E8301DE5714ED7B40934",
       "version": "0.0.6",
       "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-explorer-0.0.6.jar?raw=true",
       "requires": "^1.0.0"
@@ -169,13 +169,22 @@
   "name": "Unethical Fighter",
   "description": "Simple fighter, supports eating, looting, alching, prayer potions, prayer flicking",
   "id": "unethicalfighter-plugin",
-  "releases": [{
-    "date": "2023-12-16",
-    "sha512sum": "D67E7096E27FB267EB455379405DD4D5EAD620DC5892F3696B51C3B71905D73645D0DF78E619DECC3FCFAE791292DBA645388365D5A2D83E6BE055CD20B3A5D5",
-    "version": "0.0.7",
-    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-fighter-0.0.7.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-12-16",
+      "sha512sum": "D67E7096E27FB267EB455379405DD4D5EAD620DC5892F3696B51C3B71905D73645D0DF78E619DECC3FCFAE791292DBA645388365D5A2D83E6BE055CD20B3A5D5",
+      "version": "0.0.7",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-fighter-0.0.7.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2024-07-26",
+      "sha512sum": "335CA870CE58B6103362957E9FB8B30191B2FA3C8420C4F7350F10E2C2F03382B27BFBDD2835CD8AE30BFBF14DA70436A8B6EA9989F25831078BDD44497CD62B",
+      "version": "0.0.12",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-fighter-0.0.12.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "",
   "provider": "melxin",
@@ -260,11 +269,20 @@
   "name": "Unethical Zulrah",
   "description": "Kills Zulrah for you",
   "id": "unethicalzulrah-plugin",
-  "releases": [{
-    "date": "2023-12-16",
-    "sha512sum": "64F2F60E2744C09ED5CD326F8AAA161DFED2AEA662C863A2D9FDE41DF20763FCC0F367662BA9E5993A8C4D52F432FF13AF35F1BC1D9852402C507DCAD0C83978",
-    "version": "0.0.2",
-    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.2.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-12-16",
+      "sha512sum": "64F2F60E2744C09ED5CD326F8AAA161DFED2AEA662C863A2D9FDE41DF20763FCC0F367662BA9E5993A8C4D52F432FF13AF35F1BC1D9852402C507DCAD0C83978",
+      "version": "0.0.2",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.2.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2024-07-26",
+      "sha512sum": "A37A77A6138C1F368A04CE9669CE02BF858198A9A69056B26AD6252E3CE69B082FF428AABE8B0F08C87345DAD0B5DB6D74A6934C8052E0B0193D17DC181F4BCF",
+      "version": "0.0.12",
+      "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/unethical-zulrah-0.0.12.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }]

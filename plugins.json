@@ -1,14 +1,14 @@
 [{
   "projectUrl": "",
-  "provider": "melxin",
+  "provider": "Hellenism",
   "name": "mPower Fisher",
   "description": "Power fish",
   "id": "mpowerfisher-plugin",
   "releases": [{
     "date": "2024-08-02",
-    "sha512sum": "7340832D1A1E76E8323BBE43D9864BB2D3F918C79AAE74B4E9CD7B99CBB933D9537031D4C8E7D58AC562DA84A22525DD6AC65DE983DE981F6BB39642625CAB74",
+    "sha512sum": "5EAAD941CD5DF0728BDB619DFC4744268C8EB403E939A96C39C390B56218B62434319CDAE32D5CC85DEFEAF069DADE3D383D24BD441567AE402844CBD41B206F",
     "version": "0.0.2",
-    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/m-powerfisher-0.0.2.jar?raw=true",
+    "url": "https://github.com/JariTormalehto/release/m-powerfisher-0.0.2.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }]
